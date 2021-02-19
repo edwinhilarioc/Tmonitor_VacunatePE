@@ -3,6 +3,7 @@ Monitor de Temperatura con resolucion de 0.25°C, desde -55°C a 150°C.
 Envia data cada segundo, incluye salida para alarmas de advertencia y alarma de riesgo de perdida total del cargamento en cadena de frio de 2°C a 8°C.
 
 Condiciones de alarma:
+
     -Advertencia:
     Temperatura medida entre 2°C - 3°C y entre 7°C - 8°C
     Alerta de perdida:
